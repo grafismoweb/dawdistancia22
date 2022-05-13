@@ -1,4 +1,7 @@
 <?php
+
+// Modificación realizada en local
+
 /**
  * Este archivo forma parte de la Tarea 5 de DAW.
  * @author María Teresa Rodríguez García.
