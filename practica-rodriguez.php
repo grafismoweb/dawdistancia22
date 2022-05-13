@@ -1,6 +1,8 @@
 <?php
 
-// Modificación realizada en local
+////////////////////////////////////////
+//  tarea dawdistancia22 actualizada  //
+////////////////////////////////////////
 
 /**
  * Este archivo forma parte de la Tarea 5 de DAW.
